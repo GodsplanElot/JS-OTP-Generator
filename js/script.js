@@ -6,4 +6,4 @@ function generateOTP(){
 };
 
 console.log(generateOTP());
-//getting ready for 2025
+//
