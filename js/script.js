@@ -6,4 +6,5 @@ function generateOTP(){
 };
 
 console.log(generateOTP());
+console.log("finished");
 //
